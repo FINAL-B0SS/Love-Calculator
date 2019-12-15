@@ -16,6 +16,9 @@ capsule {
   store-sections {
     section (EducationAndReference)
   }
+  store-countries {
+    all
+  }
   capsule-imports {
     import (viv.core) {
       as (core)
@@ -25,4 +28,3 @@ capsule {
     }
   }
 }
-
